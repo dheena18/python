@@ -1,0 +1,2 @@
+s="dheenadayalan"
+print(s[4:])
